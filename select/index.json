@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "イエスタデイ",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-02T14:13:43.699520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナッシング・レフト・オブ・イエスタデイ",
+      "artist": "Night Ranger",
+      "has_synced": true,
+      "path": "select/01_ナッシング・レフト・オブ・イエスタデイ_Night_Ranger.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イエスタデイ (ライヴ)",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/02_イエスタデイ_(ライヴ)_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イエスタデイ",
+      "artist": "Oscar Peterson",
+      "has_synced": false,
+      "path": "select/03_イエスタデイ_Oscar_Peterson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イエスタデイ",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/04_イエスタデイ_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イエスタデイ(Movie ver.)",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/05_イエスタデイ(Movie_ver.)_Official_HIGE_DANdism.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イエスタデイ[Movie ver.]",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/06_イエスタデイ[Movie_ver.]_Official髭男dism.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "イエスタデイ",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/07_イエスタデイ_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "イエスタデイ・ワンス・モア",
+      "artist": "Yura Yura Teikoku",
+      "has_synced": false,
+      "path": "select/08_イエスタデイ・ワンス・モア_Yura_Yura_Teikoku.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イエスタデイ・ワンス・モア",
+      "artist": "ゆらゆら帝国",
+      "has_synced": false,
+      "path": "select/09_イエスタデイ・ワンス・モア_ゆらゆら帝国.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "イエスタデイ・ワンス・モア",
+      "artist": "キャンディーズ",
+      "has_synced": false,
+      "path": "select/10_イエスタデイ・ワンス・モア_キャンディーズ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "イエスタデイ・ワンスモア",
+      "artist": "The Carpenters",
+      "has_synced": false,
+      "path": "select/11_イエスタデイ・ワンスモア_The_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミス・イエスタデイ",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/12_ミス・イエスタデイ_YUKI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "イエスタデイ(Instrumental)",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/13_イエスタデイ(Instrumental)_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "イエスタデイ(Instrumental)",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/14_イエスタデイ(Instrumental)_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "イエスタデイ(Instrumental)",
+      "artist": "OfficialHigeDandism",
+      "has_synced": true,
+      "path": "select/15_イエスタデイ(Instrumental)_OfficialHigeDandism.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "イエスタデイ - Yesterday",
+      "artist": "Official Hige Dandism",
+      "has_synced": true,
+      "path": "select/16_イエスタデイ_-_Yesterday_Official_Hige_Dandism.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Official髭男dism - イエスタデイ［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/17_Official髭男dism_-_イエスタデイ[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "イエスタデイ(ONLINE LIVE 2020 - Arena Travelers -)",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/18_イエスタデイ(ONLINE_LIVE_2020_-_Arena_Travelers_-)_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "イエスタデイ・ワンス・モア(Yesterday Once More)",
+      "artist": "The Carpenters",
+      "has_synced": true,
+      "path": "select/19_イエスタデイ・ワンス・モア(Yesterday_Once_More)_The_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "イエスタデイ (ONLINE LIVE 2020 - Arena Travelers -) (Live)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/20_イエスタデイ_(ONLINE_LIVE_2020_-_Arena_Travelers_-)_(Live)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イエスタデイ",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_イエスタデイ_Official髭男dism.txt"
+    }
+  ]
+}
