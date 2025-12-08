@@ -1,45 +1,71 @@
-# Official髭男dism – イエスタデイ
+# Night Ranger – ナッシング・レフト・オブ・イエスタデイ
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-何度失ったって 取り返してみせるよ
-雨上がり 虹がかかった空みたいな君の笑みを
-例えばその代償に 誰かの表情を曇らせてしまったっていい
-悪者は僕だけでいい
-
-本当はいつでも誰もと思いやりあっていたい
-でもそんな悠長な理想論はここで捨てなくちゃな
-
-遥か先で 君へ 狙いを定めた恐怖を どれだけ僕ははらい切れるんだろう？
-半信半疑で 世間体 気にしてばっかのイエスタデイ
-ポケットの中で怯えたこの手はまだ忘れられないまま
-
-「何度傷ついたって 仕方ないよ」と言って
-うつむいて 君がこぼした 儚くなまぬるい涙
-ただの一粒だって 僕を不甲斐なさで
-溺れさせて 理性を奪うには十分過ぎた
-
-街のクラクションもサイレンも届きやしないほど
-
-遥か先へ進め 身勝手すぎる恋だと 世界が後ろから指差しても
-振り向かず進め 必死で 君の元へ急ぐよ
-道の途中で聞こえたSOSさえ気づかないふりで
-
-バイバイイエスタデイ ごめんね 名残惜しいけど行くよ
-いつかの憧れと違う僕でも
-ただ1人だけ 君だけ 守るための強さを 何よりも望んでいた
-この手に今
-
-遥か先へ進め 幼すぎる恋だと
-世界が後ろから指差しても
-迷わずに進め 進め 2人だけの宇宙へと
-ポケットの中で震えたこの手で今君を連れ出して
-
-未来の僕は知らない だから視線は止まらない
-謎めいた表現技法 意味深な君の気性
-
-アイラブユーさえ 風に 飛ばされそうな時でも
-不器用ながら繋いだ この手はもう決して離さずに
-虹の先へ
+```lrc
+[00:11.01] She's standing in the pouring rain
+[00:12.94] Tears fill in the eyes
+[00:16.72] How could she be so blind
+[00:21.31] There's nothing like a passing thing
+[00:24.08] Imagine her surprise
+[00:27.71] Yet time after time
+[00:37.21] 
+[00:32.35] She gave him love
+[00:38.06] Guess it wasn't quite enough
+[00:43.06] And now she's feels the cut of the knife
+[00:47.05] She hadn't felt that for a while
+[01:03.05] 
+[00:54.79] Hey - you're gonna live
+[00:58.32] You're gonna live to love another day
+[01:02.32] Watch you walk away
+[01:05.43] Hey - you're gonna be
+[01:09.38] You're gonna be the stronger one today
+[01:12.73] There's nothing left of yesterday
+[01:16.31] Nothing left of yesterday
+[01:28.81] 
+[01:24.12] Where's the daylight in her smile
+[01:26.73] The spark that lights the flame
+[01:30.68] It's lost again
+[01:35.07] Taken out by another dream
+[01:37.45] That crashed against the rails
+[01:41.20] Nothing is what it seems
+[01:53.20] 
+[01:46.13] But oh oh the night
+[01:51.38] In the candlelight
+[01:56.77] She writes down everything
+[01:59.76] It's the only way she knows how not to scream
+[02:22.26] 
+[02:07.43] Hey - you're gonna live
+[02:12.15] You're gonna live to love another day
+[02:15.75] Watch you walk away
+[02:19.11] Hey - you're gonna be
+[02:23.17] You're gonna be the stronger one today
+[02:26.78] There's nothing left of yesterday
+[02:43.28] 
+[02:32.82] What can you do to carry it through
+[02:35.19] Breaking out the old with new
+[02:37.86] There's always faith and hope, there's always love
+[02:43.11] What can you say to carry that weight
+[02:45.84] Maybe tomorrow it's not too late
+[02:48.72] Knock it down, take it out
+[02:51.57] Ain't it time you've had enough
+[03:07.07] 
+[03:19.59] Hey - you're gonna live
+[03:23.29] You're gonna live to love another day
+[03:26.89] Watch you walk away
+[03:29.52] Hey - you're gonna be
+[03:34.33] You're gonna be the stronger one today
+[03:37.58] There's nothing left of yesterday
+[03:54.08] 
+[03:40.56] Hey - you're gonna live
+[03:44.94] You're gonna live to love another day
+[03:48.20] Nothing left of yesterday
+[03:51.60] Hey - you're gonna be
+[03:55.63] You're gonna be the stronger one today
+[03:59.38] Nothing left of yesterday
+[04:11.88] 
+[04:02.35] Nothing left of yesterday
+[04:05.32] Nothing left of yesterday
+[04:10.62] Oh nothing - no nothing
+[04:18.33] Nothing left of yesterday
 ```
